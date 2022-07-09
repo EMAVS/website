@@ -1,0 +1,36 @@
+baseURL = 'https://www.emavs.fr'
+title = 'EMAVS'
+languageCode = 'fr-fr'
+
+# theme as git submodule
+theme = "ananke"
+
+DefaultContentLanguage = "fr"
+enableRobotsTXT = true
+
+[params]
+  text_color = ""
+  author = "EMAVS"
+  favicon = "/images/logo.png"
+  site_logo = "/images/logo-1-small.png"
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+  [[params.ananke_socials]]
+    name = "facebook"
+    url = "https://fr-fr.facebook.com/emmanuelle.emavs/"
+    label = "Facebook"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[menu]
+  [[menu.main]]
+    name = "L'actualité"
+    weight = 200
+    identifier = "posts"
+    url = "/post/"
