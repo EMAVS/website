@@ -2,13 +2,13 @@
 title: Contact
 featured_image: ''
 omit_header_text: true
-description: Laissez-nous un message!
+description: Laissez-nous un message !
 type: page
 menu: main
 weight: 500
 ---
 
-![Notre nouvelle élève](/images/logo-1.png)
+![Logo EMAVS](/images/logo-1.png)
 
 Adresse email: info@emavs.fr
 
