@@ -1,8 +1,8 @@
 ---
 title: Remerciements
+description: Remerciements
 featured_image: ''
 omit_header_text: true
-description: Remerciements
 type: page
 ---
 

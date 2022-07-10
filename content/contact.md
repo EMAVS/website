@@ -1,8 +1,8 @@
 ---
 title: Contact
+description: Laissez-nous un message !
 featured_image: '/images/banners/piano.webp'
 omit_header_text: true
-description: Laissez-nous un message !
 type: page
 menu: main
 weight: 500
