@@ -29,3 +29,9 @@ jobs:
       - name: create artifact archive
         run: |
           tar -zcf 'public.tar.gz' public/
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: website
+          path: public.tar.gz
+
