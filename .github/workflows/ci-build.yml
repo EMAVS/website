@@ -2,8 +2,8 @@ name: Build website
 
 on:
   push:
-    branches:
-      - master  # Set a branch to deploy
+    branches: [ 'master' ]
+    tags: [ 'v*.*', 'v*.*.*', 'v*.*.*-*' ]
   pull_request:
 
 jobs:
