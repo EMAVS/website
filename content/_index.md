@@ -1,5 +1,5 @@
 ---
-title: "École de Musique Associative du Val Sierckois"
+title: "Acceuil"
 description: "Bienvenue sur le site de notre école de Musique !"
 cascade:
   featured_image: '/images/banner.png'

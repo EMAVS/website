@@ -9,4 +9,5 @@ tags:
   - news
 ---
 
-Voici notre nouveau site Web.
+Voici notre nouveau site Web. Il servira principalement à vous tenir informer à propos
+de nos activités.

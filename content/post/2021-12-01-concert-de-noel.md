@@ -13,5 +13,5 @@ tags:
 ![Concert de Noël](/images/blog/2021/12/concert-de-noel-1.png)
 
 L'EMAVS proposera un concert au village du Père Noël.
-Ce sera le premier concert pour la plupart de nos très jeunes élèves !
-Il se sont préparés pour vous ;-)
+Ce sera le tout premier concert pour la plupart de nos très jeunes élèves !
+Il se sont préparés pour vous  ;-) Venez nombreux !

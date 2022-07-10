@@ -1,5 +1,5 @@
 baseURL = 'https://www.emavs.fr'
-title = 'EMAVS'
+title = 'École de Musique Associative du Val Sierckois'
 languageCode = 'fr-fr'
 
 # theme as git submodule
@@ -10,7 +10,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = "EMAVS"
+  author = "École de Musique Associative du Val Sierckois"
   description = "École de Musique Associative du Val Sierckois"
   favicon = "/images/logo.png"
   site_logo = "/images/logo-1-small.png"
