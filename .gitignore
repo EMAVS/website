@@ -3,6 +3,7 @@
 public.tar.gz
 
 resources/_gen/
+.hugo_build.lock
 
 ## OS Files
 # Windows

@@ -16,5 +16,3 @@ le dossier d'inscription complété par email à l'adresse: info@emavs.fr
 Vous pouvez également l'imprimer. Voir la page de [contact](/contact).
 
 Le secrétariat vous contactera dans les meilleurs délais.
-
-Nous serions heureux de vous compter parmi nous !

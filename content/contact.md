@@ -8,18 +8,18 @@ menu: main
 weight: 500
 ---
 
-![Logo EMAVS](/images/logo-1.png)
-
 Adresse email: info@emavs.fr
 
-Notre [flux RSS](/index.xml) pour être toujours informé de notre actualité.
-
-Téléphone:
-
-    + 33 ...
+Le [flux RSS](/post/index.xml) pour être toujours informé de notre actualité.
 
 Adresse postale:
 
     12 Quai des Ducs de Lorraine  
     57480 Sierck-les-Bains
     France
+
+{{< osm >}}
+
+Téléphone:
+
+    + 33 ...

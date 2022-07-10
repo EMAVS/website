@@ -25,7 +25,8 @@ Le site Web est hébergé en France.
 ## Propriété intellectuelle
 
 La structure générale du site, ainsi que les textes sont sous licence:
-[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+Le code source du site Web est disponible [ici](https://github.com/EMAVS/website).
 
 Les logos, visuels et marques présents sur ce site sont la propriété de leur détenteur
 respectif.

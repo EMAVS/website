@@ -19,6 +19,11 @@ enableRobotsTXT = true
   recent_posts_number = 10
 
   [[params.ananke_socials]]
+      name = "rss"
+      url = "/post/index.xml"
+      label = "Abonnez vous à notre flux RSS"
+
+  [[params.ananke_socials]]
       name = "facebook"
       url = "https://fr-fr.facebook.com/emmanuelle.emavs/"
       label = "Facebook"

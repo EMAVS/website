@@ -5,5 +5,6 @@ cascade:
   featured_image: '/images/banner.png'
 ---
 
-L’École de Musique Associative du Val Sierckois (EMAVS) a été créée en fin
-d'année 2021 !
+
+<!-- L’École de Musique Associative du Val Sierckois (EMAVS) a été créée en fin
+d'année 2021 ! -->
