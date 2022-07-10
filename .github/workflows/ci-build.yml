@@ -33,8 +33,7 @@ jobs:
 
       # prepare release
       - name: create artifact archive
-        run: |
-        tar -zcf 'public.tar.gz' public/
+        run: tar -zcf 'public.tar.gz' public/
 
       ## release (when tag present)
       - name: release
