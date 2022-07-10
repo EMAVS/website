@@ -31,18 +31,18 @@ jobs:
           name: website
           path: public/
 
-     # prepare release
-     - name: create artifact archive
-       run: |
-       tar -zcf 'public.tar.gz' public/
+      # prepare release
+      - name: create artifact archive
+        run: |
+        tar -zcf 'public.tar.gz' public/
 
-     ## release (when tag present)
-     - name: release
-       uses: softprops/action-gh-release@v1
-       with:
-         files: |
-           public.tar.gz
-         fail_on_unmatched_files: true
-       if: startsWith(github.ref, 'refs/tags/')
+      ## release (when tag present)
+      - name: release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            public.tar.gz
+          fail_on_unmatched_files: true
+        if: startsWith(github.ref, 'refs/tags/')
 
 
