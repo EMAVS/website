@@ -19,9 +19,14 @@ enableRobotsTXT = true
   recent_posts_number = 10
 
   [[params.ananke_socials]]
-    name = "facebook"
-    url = "https://fr-fr.facebook.com/emmanuelle.emavs/"
-    label = "Facebook"
+      name = "facebook"
+      url = "https://fr-fr.facebook.com/emmanuelle.emavs/"
+      label = "Facebook"
+
+  [[params.ananke_socials]]
+      name = "github"
+      url = "https://github.com/EMAVS"
+      label = "GitHub"
 
 [sitemap]
   changefreq = "monthly"
