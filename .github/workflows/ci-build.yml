@@ -26,12 +26,12 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: create artifact archive
-        run: |
-          tar -zcf 'public.tar.gz' public/
+      #- name: create artifact archive
+      #run: |
+      #tar -zcf 'public.tar.gz' public/
 
       - uses: actions/upload-artifact@v3
         with:
           name: website
-          path: public.tar.gz
+          path: public/
 
