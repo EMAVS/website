@@ -20,12 +20,12 @@ Commençons tôt ! Pour les enfants dès 3 ans.
 
 ### L'éveil musical
 
-Les mercredis et samedis, à partir de 3/4 ans (petite et moyenne section).
+Les Mercredis et Samedis, à partir de 3/4 ans (petite et moyenne section).
 
 
 ### La formation musicale
 
- De 17h à 19h en semaine.
+ De 17h à 19h en semaine. À partir de 6 ans (CP).
 
 
 ### La chorale pour adultes
@@ -47,5 +47,3 @@ Les horaires seront déterminés avec le professeur.
 Vous êtes intéressé ?
 
 Vous pouvez vous inscrire [ici](/inscription).
-
-[Les tarifs]()
