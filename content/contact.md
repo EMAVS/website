@@ -14,7 +14,7 @@ Le [flux RSS](/post/index.xml) pour être toujours informé de notre actualité.
 
 Adresse postale:
 
-    12 Quai des Ducs de Lorraine  
+    12 Quai des Ducs de Lorraine
     57480 Sierck-les-Bains
     France
 
@@ -22,4 +22,4 @@ Adresse postale:
 
 Téléphone:
 
-    + 33 ...
+    + 33 6 95 67 29 34

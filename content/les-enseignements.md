@@ -20,7 +20,7 @@ Commençons tôt ! Pour les enfants dès 3 ans.
 
 ### L'éveil musical
 
-Les mercredis et samedis, à partir de 4 ans.
+Les mercredis et samedis, à partir de 3/4 ans (petite et moyenne section).
 
 
 ### La formation musicale
@@ -30,14 +30,14 @@ Les mercredis et samedis, à partir de 4 ans.
 
 ### La chorale pour adultes
 
- Le Mercredi en soirée.
+ Les séances de chorale adultes ont lieu le Mercredi soir.
 
 
 ---
 
 ## Les cours d'instruments
 
-- Contrebasse
+- Contrebasse à cordes
 - Trompette
 
 Les horaires seront déterminés avec le professeur.
