@@ -54,4 +54,5 @@ courant de l'entité hébergeant le site qu'ils visitent.
 
 Au cours de votre visite sur notre site internet aucune donnée n’est collectée à votre
 insu. Nous n'utilisons pas de _cookies_, ne faisons pas de publicité rémunérée ou de
-_tracking_.
+_tracking_. Le serveur hébergeant ce site Web a connaissance de l'adresse IP source des
+requêtes via les journaux d'Apache qui sont conservés pour un temps limité.
