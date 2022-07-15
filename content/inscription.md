@@ -8,7 +8,8 @@ menu: main
 weight: 400
 ---
 
-Téléchargez le [formulaire PDF](/files/formulaire-inscription.pdf).
+Téléchargez le [formulaire PDF](/files/EMAVS-inscription-2022-2023.pdf) ainsi que le
+[règlement](/files/EMAVS-reglement-interieur.pdf).
 
 Il est possible de directement éditer le PDF avec votre ordinateur et de nous envoyer
 le dossier d'inscription complété par email à l'adresse: info@emavs.fr

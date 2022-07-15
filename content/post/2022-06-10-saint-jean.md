@@ -11,4 +11,4 @@ tags:
 ---
 
 Venez voir nos élèves à l'occasion du feu de la Saint-Jean de Sierck-Les-Bains, le 
-Dimanche 19 Juin.
+Dimanche 19 Juin. Pour certains élèves, le premier concert avec un instrument !
