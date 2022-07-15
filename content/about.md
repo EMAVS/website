@@ -16,5 +16,6 @@ personnes passionnées par la musique et l'enseignement de cet art.
 
 De l'éveil musical à la chorale en passant par la formation musicale et instrumentale,
 tout le monde peut trouver sa place dans nos [différentes formations](/les-enseignements).
+Notre école est déjà constituée d'une cinquantaine de membres.
 
 Nous ne ferions une joie de vous compter parmi nous !

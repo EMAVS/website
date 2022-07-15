@@ -15,12 +15,12 @@ note école de musique.
 
 ### Le jardin musical
 
-Commençons tôt ! Pour les enfants dès 3 ans.
+Commençons tôt ! Pour les enfants dès 3/4 ans (petite et moyenne section).
 
 
 ### L'éveil musical
 
-Les Mercredis et Samedis, à partir de 3/4 ans (petite et moyenne section).
+Les Mercredis et Samedis. Dès 5 ans ou 4 ans selon les aptitudes de l’enfant.
 
 
 ### La formation musicale
