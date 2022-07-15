@@ -52,7 +52,24 @@ courant de l'entité hébergeant le site qu'ils visitent.
 
 ## Politique de protection des données personnelles
 
+Par « données personnelles », nous entendons toute information permettant de vous
+identifier, directement ou indirectement.
+
 Au cours de votre visite sur notre site internet aucune donnée n’est collectée à votre
-insu. Nous n'utilisons pas de _cookies_, ne faisons pas de publicité rémunérée ou de
-_tracking_. Le serveur hébergeant ce site Web a connaissance de l'adresse IP source des
-requêtes via les journaux d'Apache qui sont conservés pour un temps limité.
+insu.
+
+### Notre site utilise-t-il des cookies ?
+
+Non, notre site Web n'utilise aucun cookie ou composant analytique.
+
+### Quelles données personnelles collectons-nous sur notre site internet et à quelle fin ?
+
+Lorsque vous naviguez sur notre site Web, nous collectons et traitons les journaux du
+serveur Web, y compris les adresses IP, les agents utilisateurs, les URL, les journaux
+de date et d'heure. Nous collectons ces journaux pour notre intérêt légitime car ces
+journaux permettent la gestion technique et fonctionnelle de notre site Web. De plus,
+nous analysons les données pour assurer une sécurité optimale de notre site Web.
+Les journaux d'Apache sont conservés pour un temps limité.
+
+Lorsque vous nous envoyez un email nous connaissons votre adresse email ainsi que les
+informations dans les entêtes SMTP de l'email.
