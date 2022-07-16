@@ -25,7 +25,7 @@ Les Mercredis et Samedis. Dès 5 ans ou 4 ans selon les aptitudes de l’enfant.
 
 ### La formation musicale
 
- De 17h à 19h en semaine. À partir de 6 ans (CP).
+De 17h à 19h en semaine. À partir de 6 ans (CP).
 
 
 ### La chorale pour adultes
