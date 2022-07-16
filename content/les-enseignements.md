@@ -30,7 +30,7 @@ Les Mercredis et Samedis. Dès 5 ans ou 4 ans selon les aptitudes de l’enfant.
 
 ### La chorale pour adultes
 
- Les séances de chorale adultes ont lieu le Mercredi soir.
+Les séances de chorale adultes ont lieu le Mercredi soir.
 
 
 ---
