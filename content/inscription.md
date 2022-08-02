@@ -20,3 +20,16 @@ Le secrétariat vous contactera dans les meilleurs délais.
 
 
 ## Tarifs
+
+|                                           |            |
+| :---------------------------------------- | --------:  |
+| **Cotisation annuelle**                   |  45&nbsp;€ |
+| **Formation Musicale (FM1 et FM2)**       | 150&nbsp;€ |
+| **Instrument**                            | 255&nbsp;€ |
+| **Éveil musical**                         |          € |
+| **Chorale**                               |          € |
+
+Les élèves qui font un instrument doivent impérativement aussi s'inscrire au cours de
+Formation Musicale.
+
+Les tarifs pour la formation musicale sont dégressifs pour les enfants par famille.

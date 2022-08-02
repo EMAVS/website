@@ -25,7 +25,13 @@ Les Mercredis et Samedis. Dès 5 ans ou 4 ans selon les aptitudes de l’enfant.
 
 ### La formation musicale
 
-De 17h à 19h en semaine. À partir de 6 ans (CP).
+À partir de 6 ou 7 ans.
+
+La formation FM1 a lieu le Mercredi, de 13h à 14h.
+La formation FM2 a lieu le Mardi, en soirée.
+
+Selon le nombre d'inscription nous ouvrirons également des cours de formation musicale
+pour adules, ainsi que pour les instruments de musique.
 
 
 ### La chorale pour adultes
