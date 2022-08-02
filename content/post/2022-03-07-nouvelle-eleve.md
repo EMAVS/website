@@ -1,5 +1,5 @@
 ---
-title: Une nouvelle élève !
+title: Une nouvelle élève de contrebasse !
 slug: une-nouvelle-eleve
 author: EMAVS
 type: post
