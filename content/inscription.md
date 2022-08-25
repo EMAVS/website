@@ -14,9 +14,11 @@ Téléchargez le [formulaire PDF](/files/EMAVS-inscription-2022-2023.pdf) ainsi 
 Il est possible de directement éditer le PDF avec votre ordinateur et de nous envoyer
 le dossier d'inscription complété par email à l'adresse: info@emavs.fr
 
-Vous pouvez également l'imprimer. Voir la page de [contact](/contact).
+Vous pouvez également l'imprimer et le déposer à la mairie de Sierck-Les-Bains.
+Voir la page de [contact](/contact).
 
-Le secrétariat vous contactera dans les meilleurs délais.
+Le secrétariat vous contactera dans les meilleurs délais. Que ce soit pour une
+inscription ou toute autre question.
 
 
 ## Tarifs
