@@ -9,7 +9,8 @@ tags:
   - inscriptions
 ---
 
-Le dossier d'inscription pour l'année 2022/2023 est disponible.
+Le dossier d'inscription pour l'année 2022/2023 est désormais disponible
+et la reprise des cours se fera à partir du 26 septembre.
 
 Vous pouvez consulter nos différentes [formations](/les-enseignements).
 
