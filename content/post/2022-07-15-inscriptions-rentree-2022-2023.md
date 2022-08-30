@@ -14,7 +14,7 @@ et la reprise des cours se fera à partir du 26 septembre.
 
 Vous pouvez consulter nos différentes [formations](/les-enseignements).
 
-Certaines horaires, notamment pour les formations FM1 et FM2 pourront encore être
+Certains horaires, notamment pour les formations FM1 et FM2 pourront encore être
 ajustés en Septembre suite aux inscriptions.  
 Selon le nombre d'inscrits nous ouvrirons également des cours de formation musicale
 pour adultes, ainsi que pour les instruments de musique.  
