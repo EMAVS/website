@@ -14,11 +14,22 @@ Téléchargez le [formulaire PDF](/files/EMAVS-inscription-2022-2023.pdf) ainsi 
 Il est possible de directement éditer le PDF avec votre ordinateur et de nous envoyer
 le dossier d'inscription complété par email à l'adresse: info@emavs.fr
 
+Le secrétariat vous contactera dans les meilleurs délais. Que ce soit pour une
+inscription ou toute autre question.
+
+### Permanences
+
+Les permanences pour les inscriptions avec le professeur:
+- mercredi 7/09/22 à 18h
+- samedi 10/09/22 à 10h00.
+
+À la [Salle Nousbaum](https://www.openstreetmap.org/?mlat=49.44290&mlon=6.36123#map=19/49.44290/6.36123),
+place du marché de Sierck-Les-Bains.
+
 Vous pouvez également l'imprimer et le déposer à la mairie de Sierck-Les-Bains.
 Voir la page de [contact](/contact).
 
-Le secrétariat vous contactera dans les meilleurs délais. Que ce soit pour une
-inscription ou toute autre question.
+
 
 
 ## Tarifs
