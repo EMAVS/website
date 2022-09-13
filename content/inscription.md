@@ -27,7 +27,8 @@ Les permanences pour les inscriptions avec le professeur:
 place du marché de Sierck-Les-Bains.
 
 Vous pouvez également l'imprimer et le déposer à la mairie de Sierck-Les-Bains.
-Voir la page de [contact](/contact).
+Voir la page de [contact](/contact).  
+Les inscriptions sont toujours ouvertes en dehors des permanences.
 
 
 
