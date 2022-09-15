@@ -45,7 +45,7 @@ Cotisation annuelle + FM tarif premier enfant + EM tarif deuxième enfant
 = 585 euros
 {{< / highlight >}}
 
-Le tarif premier enfant est destiné à l'aîné.
+Le tarif premier enfant est destiné à l'aîné⸱e.
 
 
 **Informations supplémentaires:**
