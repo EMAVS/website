@@ -47,8 +47,9 @@ Les inscriptions sont toujours ouvertes en dehors des permanences.
 
 **Un exemple:**
 
-Pour une famille de deux enfants, le premier faisant une formation musicale (*EM*),
-le second de l'éveil musical avec un instrument (*FM*).
+Pour une famille de deux enfants, l'un faisant une formation musicale (*EM*) et
+l'autre de l'éveil musical avec un instrument (*FM*), la somme à payer est calculée de
+la manière:
 
 {{< highlight matlab "linenos=table,hl_lines=3,linenostart=1" >}}
 Cotisation annuelle + FM tarif premier enfant + EM tarif deuxième enfant
