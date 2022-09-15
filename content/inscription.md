@@ -44,12 +44,28 @@ Les inscriptions sont toujours ouvertes en dehors des permanences.
 | **Formation Musicale et instrument**  |     405&nbsp;€ |       375&nbsp;€ |        345&nbsp;€ |
 | **Chorale**                           |      60&nbsp;€ |                  |                   |
 
-Les séances de chorale durent 1h30 par semaine.
 
-L'apprentissage de l'instrument est indissociable de la Formation Musicale (FM1 ou FM2).
+**Un exemple:**
 
-Le cours individuel d'un instrument (30 minutes), sans la formation musicale,
+Pour une famille de deux enfants, le premier faisant une formation musicale (*EM*),
+le second de l'éveil musical avec un instrument (*FM*).
+
+{{< highlight matlab "linenos=table,hl_lines=3,linenostart=1" >}}
+Cotisation annuelle + FM tarif premier enfant + EM tarif deuxième enfant
+= 45 + 405 + 135
+= 585 euros
+{{< / highlight >}}
+
+Le tarif premier enfant est destiné à l'aîné.
+
+
+**Informations supplémentaires:**
+
+- Les séances de chorale durent 1h30 par semaine.
+- L'apprentissage de l'instrument est indissociable de la Formation Musicale (FM1 ou FM2).
+- Le cours individuel d'un instrument (30 minutes), sans la formation musicale,
 **pour un adulte** est de 450&nbsp;€ par an.
+
 
 
 ### Hors CCB3F
