@@ -36,8 +36,8 @@ Voir la page de [contact](/contact).
 
 **Un exemple:**
 
-Pour une famille de deux enfants, l'un faisant une formation musicale (*EM*) et
-l'autre de l'éveil musical (*FM*), la somme à payer est calculée de la manière:
+Pour une famille de deux enfants, l'un faisant une formation musicale (*FM*) et
+l'autre de l'éveil musical (*EM*), la somme à payer est calculée de la manière:
 
 {{< highlight matlab "linenos=table,hl_lines=3,linenostart=1" >}}
 Cotisation annuelle + FM tarif premier enfant + EM tarif deuxième enfant
