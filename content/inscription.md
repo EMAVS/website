@@ -24,20 +24,25 @@ Voir la page de [contact](/contact).
 
 ## Tarifs
 
-### Communauté de Communes Bouzonvillois - Trois Frontières
+### CCB3F
 
 |                                       | Premier enfant |  Deuxième enfant |  Troisième enfant |
 | :------------------------------------ | -------------: | ---------------: |-----------------: |
 | **Cotisation annuelle**               |      45&nbsp;€ |                  |                   |
+| &nbsp;                                |                |                  |                   |
 | **Éveil musical**                     |     150&nbsp;€ |       135&nbsp;€ |        120&nbsp;€ |
+| **Formation Musicale**                |     150&nbsp;€ |       135&nbsp;€ |        120&nbsp;€ |
 | **Formation Musicale et instrument**  |     405&nbsp;€ |       375&nbsp;€ |        345&nbsp;€ |
+| &nbsp;                                |                |                  |                   |
 | **Chorale**                           |      60&nbsp;€ |                  |                   |
 
+> Tarifs pour les personnes issues de la Communauté de Communes Bouzonvillois - Trois Frontières (CCB3F).
 
 **Un exemple:**
 
-Pour une famille de deux enfants, l'un faisant une formation musicale (*FM*) et
-l'autre de l'éveil musical (*EM*), la somme à payer est calculée de la manière:
+Pour une famille de deux enfants, l'un faisant une formation musicale avec
+instrument (*FM*) et l'autre de l'éveil musical (*EM*), la somme à payer
+est calculée de la manière:
 
 {{< highlight matlab "linenos=table,hl_lines=3,linenostart=1" >}}
 Cotisation annuelle + FM tarif premier enfant + EM tarif deuxième enfant
@@ -48,12 +53,12 @@ Cotisation annuelle + FM tarif premier enfant + EM tarif deuxième enfant
 Le tarif premier enfant est destiné à l'aîné⸱e.
 
 
-**Informations supplémentaires:**
-
-- Les séances de chorale durent 1h30 par semaine.
-- L'apprentissage de l'instrument est indissociable de la Formation Musicale (FM1 ou FM2).
-- Le cours individuel d'un instrument (30 minutes), sans la formation musicale,
-**pour un adulte** est de 450&nbsp;€ par an.
+> **Informations supplémentaires:**
+> 
+> - Les séances de chorale durent 1h30 par semaine.
+> - L'apprentissage de l'instrument est indissociable de la Formation Musicale (FM1 ou FM2).
+> - Le cours individuel d'un instrument (30 minutes), sans la formation musicale,
+> **pour un adulte** est de 450&nbsp;€ par an.
 
 
 
@@ -62,8 +67,11 @@ Le tarif premier enfant est destiné à l'aîné⸱e.
 |                                       | Premier enfant |  Deuxième enfant |  Troisième enfant |
 | :------------------------------------ | -------------: | ---------------: |-----------------: |
 | **Cotisation annuelle**               |      65&nbsp;€ |                  |                   |
+| &nbsp;                                |                |                  |                   |
 | **Éveil musical**                     |     210&nbsp;€ |       195&nbsp;€ |        170&nbsp;€ |
+| **Formation Musicale**                |     210&nbsp;€ |       195&nbsp;€ |        170&nbsp;€ |
 | **Formation Musicale et instrument**  |     510&nbsp;€ |       480&nbsp;€ |        450&nbsp;€ |
+| &nbsp;                                |                |                  |                   |
 | **Chorale**                           |      90&nbsp;€ |                  |                   |
 
 Le cours individuel d'un instrument (30 minutes), sans la formation musicale,
