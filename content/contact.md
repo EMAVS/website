@@ -8,9 +8,14 @@ menu: main
 weight: 500
 ---
 
-Adresse email: info@emavs.fr
+Adresse email pour toute information: info@emavs.fr
 
-Contact de [notre professeur](https://www.facebook.com/emmanuelle.emavs): emavs.prof@gmail.com
+Contact de [notre professeur](https://www.facebook.com/emmanuelle.emavs)
+de musique: emavs.prof@gmail.com
+
+Téléphone:
+
+    + 33 6 95 67 29 34
 
 Adresse postale:
 
@@ -21,8 +26,5 @@ Adresse postale:
 
 {{< osm >}}
 
-Téléphone:
-
-    + 33 6 95 67 29 34
 
 Et aussi, le [flux RSS](/post/index.xml) pour être toujours informé de notre actualité.
