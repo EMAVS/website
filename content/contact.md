@@ -8,12 +8,14 @@ menu: main
 weight: 500
 ---
 
-Adresse email pour toute information: info@emavs.fr
+Adresse email pour les inscriptions et toute information: info@emavs.fr
+
+Contact du bureau de l'association: bureau@emavs.fr
 
 Contact de [notre professeur](https://www.facebook.com/emmanuelle.emavs)
 de musique: emavs.prof@gmail.com
 
-Téléphone:
+Téléphone du professeur:
 
     + 33 6 95 67 29 34
 

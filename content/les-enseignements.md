@@ -64,6 +64,7 @@ l'éveil musical ainsi que la formation musicale donneront lieu à la participat
 
 - Contrebasse à cordes
 - Trompette
+- Piano
 
 
 --- 

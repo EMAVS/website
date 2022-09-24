@@ -13,6 +13,6 @@ tags:
 ![Notre nouvelle élève](/images/blog/2022/09/modern-jazz.webp)
 
 Nous sommes heureux de vous annoncer la disponibilité de cours de danse
-_Modern Jazz_ à Rustroff les mercredi de 16h à 18h pour les enfants à partir de 7 ans.
+_Modern Jazz_ à Rustroff les mercredi de 16h à 18h pour les enfants à partir de 6 ans.
 
 Pour plus d'information, n'hésitez pas à [nous contacter](/contact).
