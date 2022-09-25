@@ -12,6 +12,16 @@ Que vous soyez débutant ou plus expérimenté, tout le monde peut trouver sa pl
 note école de musique.
 
 
+## Les cours d'instruments
+
+- Contrebasse à cordes
+- Trompette
+- Piano
+
+L’apprentissage de l’instrument est indissociable de la formation musicale (FM1 ou FM2).
+
+
+
 ## Le jardin musical
 
 Commençons tôt !
@@ -59,12 +69,6 @@ La pratique collective étant très importante,
 l'éveil musical ainsi que la formation musicale donneront lieu à la participation
 à quelques concerts tout au long de l'année.
 
-
-## Les cours d'instruments
-
-- Contrebasse à cordes
-- Trompette
-- Piano
 
 
 --- 

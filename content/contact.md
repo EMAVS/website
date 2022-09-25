@@ -8,7 +8,7 @@ menu: main
 weight: 500
 ---
 
-Adresse email pour les inscriptions et toute information: info@emavs.fr
+Contact pour les inscriptions et toute information: info@emavs.fr
 
 Contact du bureau de l'association: bureau@emavs.fr
 
