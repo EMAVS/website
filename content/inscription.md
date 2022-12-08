@@ -34,7 +34,9 @@ Voir la page de [contact](/contact).
 | **Formation Musicale**                |     150&nbsp;€ |       135&nbsp;€ |        120&nbsp;€ |
 | **Formation Musicale et instrument**  |     405&nbsp;€ |       375&nbsp;€ |        345&nbsp;€ |
 | &nbsp;                                |                |                  |                   |
-| **Chorale**                           |      60&nbsp;€ |                  |                   |
+| **Chorale (adulte)**                  |      60&nbsp;€ |                  |                   |
+| &nbsp;                                |                |                  |                   |
+| **Danse (enfant et adulte)**          |      90&nbsp;€ |                  |                   |
 
 > Tarifs pour les personnes issues de la Communauté de Communes Bouzonvillois - Trois Frontières (CCB3F).
 
