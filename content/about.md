@@ -9,6 +9,8 @@ menu: main
 weight: 100
 ---
 
+
+
 L'École de Musique Associative du Val Sierckois (EMAVS) est une association de droit
 local créée en fin d’année 2021, basée dans la belle ville de
 Sierck-Les-Bains. Notre école est donc toute jeune et est consituée de
@@ -23,3 +25,5 @@ Nous nous ferions une joie de vous compter parmi nous !
 {{< figure
     src="/images/photo_equipe_EMAVS.webp"
     caption="L'équipe de l'EMAVS" alt="L'équipe de l'EMAVS" >}}
+
+[![Logo officiel de l'ENAVS](/images/logos/logo-emavs.png)](https://www.siercklesbains.fr)
