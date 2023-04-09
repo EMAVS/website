@@ -11,7 +11,7 @@ tags:
 
 ## Professeur de musique (H/F)
 
-### A propos de EMAVS (Ecole de Musique Associative du Val Sierckois)
+### À propos de EMAVS (École de Musique Associative du Val Sierckois)
 
 EMAVS est une association active sur la commune de Sierck-les-Bains depuis
 septembre 2021. Nous avons à cœur de développer la musique dans tout le secteur
@@ -21,13 +21,13 @@ Nous espérons par cette annonce pouvoir satisfaire une demande en plein essor.
 
 ## Description du poste
 
-Enseignement aux élèves essentiellement au niveau Jardin et Eveil musical.
+Enseignement aux élèves essentiellement au niveau Jardin et Éveil musical.
 L’enseignement se fera dans un premier temps les samedis matin. Et nous proposons
 un poste évolutif en fonction de la demande.
 
 ### Vos missions
 
-- Assurer l’enseignement du niveau Jardin musical/Eveil musical/Formation
+- Assurer l’enseignement du niveau Jardin musical/Éveil musical/Formation
 musicale
 - L’enseignement du violon est un plus
 - L’enseignement d’un instrument autre peut nous être proposé (autre que le
@@ -35,9 +35,9 @@ piano, la trompette, la contrebasse)
 
 ### Profil idéal
 
-Ce métier est accessible avec un diplôme d'Etude musicale voir un CEM.
-Nous acceptons les candidats sans expérience professionnelle. Notre but est avant tout
-de trouver une personne :
+Ce métier est accessible avec un diplôme d'Étude musicale voir un CEM.
+Nous acceptons les candidats sans expérience professionnelle.
+Notre but est avant tout de trouver une personne :
 
 - dynamique
 - avec une volonté de faire découvrir la musique aux enfants
