@@ -12,11 +12,7 @@ Contact pour les inscriptions et toute information: info@emavs.fr
 
 Contact du bureau de l'association: bureau@emavs.fr
 
-Contact de [notre professeur](https://www.facebook.com/emmanuelle.emavs)
-de musique: emavs.prof@gmail.com  
-Téléphone du professeur: [+ 33 6 95 67 29 34](tel:+33695672934)
-
-Contact de notre professeur de danse: joe.briys@orange.fr
+Voici la page de contact de [nos enseignants](/les-enseignants).
 
 Adresse postale de l'école:
 

@@ -6,72 +6,32 @@
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
-    <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked">
-          {{/*
-          CurrentSection allows us to use the section title instead of inferring from the folder.
-          https://gohugo.io/variables/page/#section-variables-and-methods
-          */}}
-        {{with .CurrentSection.Title }}{{. | upper }}{{end}}
-      </aside>
-      {{ partial "social-share.html" . }}
-      <h1 class="f1 athelas mt3 mb1">
-        {{- .Title -}}
-      </h1>
-      {{ with .Params.author | default .Site.Params.author }}
-      <p class="tracked">
-        {{ $.Render "by" }} <strong>
-        {{- if reflect.IsSlice . -}}
-            {{ delimit . ", " | markdownify }}
-        {{- else -}}
-            {{ . | markdownify }}
-        {{- end -}}
-        </strong>
-      </p>
-      {{ end }}
-      {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-      {{ if not .Date.IsZero }}
-      <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
-        {{- .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) -}}
-      </time>
-      {{end}}
 
-      {{/*
-          Show "reading time" and "word count" but only if one of the following are true:
-          1) A global config `params` value is set `show_reading_time = true`
-          2) A section front matter value is set `show_reading_time = true`
-          3) A page front matter value is set `show_reading_time = true`
-        */}}
-      {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
-        <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime }} </span>
-        <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
-      {{ end }}
-    </header>
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
 
-      <section class="tc pa3 pa5-ns">
-        <article class="hide-child relative ba b--black-20 mw5 center">
-          <img src="https://scontent.flhr3-1.fna.fbcdn.net/v/t1.0-1/p320x320/10419949_10105372167674736_5929675618317299881_n.jpg?oh=fa3bbf4311e61e4637b67ef3be89479f&oe=58C28705" class="db" alt="Photo of Jesse Grant" />
-          <div class="pa2 bt b--black-20">
-            <a class="f6 db link dark-blue hover-blue" href="#">Jesse Grant</a>
-            <p class="f6 gray mv1">5 mutual friends</p>
-            <a class="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1" href="#">Add Friend</a>
-          </div>
-          <a class="child absolute top-1 right-1 ba bw1 black-40 grow no-underline br-100 w1 h1 pa2 lh-solid b" href="#">×</a>
-        </article>
-      </section>
+      <article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
+        <div class="tc">
+          <!-- <img src="" class="br-100 h3 w3 dib" title="Photo of Emmanuelle Michaux"> -->
+          <h1 class="f4">Emmanuelle Michaux</h1>
+          <hr class="mw3 bb bw1 b--black-10">
+        </div>
+        <p class="lh-copy measure center f6 black-70">Enseigne la contre basse, la trompette et le piano.</p>
+        <a class="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1" href="mailto:emavs.prof@gmail.com">emavs.prof@gmail.com</a>
+        <br />
+        <a class="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1" href="tel:+33695672934">+33695672934</a>
+      </article>
 
+      <article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--black-10">
+        <div class="tc">
+          <!-- <img src="" class="br-100 h3 w3 dib" title="Photo of Joe Briys"> -->
+          <h1 class="f4">Joe Briys</h1>
+          <hr class="mw3 bb bw1 b--black-10">
+        </div>
+        <p class="lh-copy measure center f6 black-70">Danse pour enfants et adultes.</p>
+        <a class="link tc ph3 pv1 db bg-animate bg-dark-blue hover-bg-blue white f6 br1" href="mailto:joe.briys@orange.fr">joe.briys@orange.fr</a>
+      </article>
 
-      {{- partial "tags.html" . -}}
-      <div class="mt6 instapaper_ignoref">
-      {{ if .Site.DisqusShortname }}
-        {{ template "_internal/disqus.html" . }}
-      {{ end }}
-      {{ if .Site.Params.commentoEnable }}
-        {{- partial "commento.html" . -}}
-      {{ end }}
-      </div>
     </div>
 
     <aside class="w-30-l mt6-l">
