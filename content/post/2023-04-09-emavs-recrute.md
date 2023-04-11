@@ -4,6 +4,7 @@ slug: nous-recrutons-pour-la-rentree-septembre
 author: EMAVS
 type: post
 date: 2023-04-09T20:00:00+02:00
+featured_image: ''
 tags:
   - enseignement
   - recrutement
