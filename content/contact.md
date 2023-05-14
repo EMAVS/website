@@ -5,7 +5,7 @@ featured_image: '/images/banners/piano.webp'
 omit_header_text: true
 type: page
 menu: main
-weight: 500
+weight: 600
 ---
 
 Contact pour les inscriptions et toute information: info@emavs.fr
