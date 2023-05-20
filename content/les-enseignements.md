@@ -16,7 +16,6 @@ note école de musique.
 
 - Contrebasse à cordes
 - Trompette
-- Piano (initiation)
 
 L’apprentissage de l’instrument est indissociable de la formation musicale (FM1 ou FM2).
 
