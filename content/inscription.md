@@ -8,14 +8,16 @@ menu: main
 weight: 400
 ---
 
-Téléchargez le [formulaire PDF](/files/EMAVS-inscription-2022-2023.pdf) ainsi que le
+<!-- Téléchargez le [formulaire PDF](/files/EMAVS-inscription-2022-2023.pdf) ainsi que le
 [règlement](/files/EMAVS-reglement-interieur.pdf).
 
 Il est possible de directement éditer le PDF avec votre ordinateur et de nous envoyer
-le dossier d'inscription complété par email à l'adresse: info@emavs.fr
+le dossier d'inscription complété par email à l'adresse: info@emavs.fr -->
 
-Le secrétariat vous contactera dans les meilleurs délais. Que ce soit pour une
-inscription ou toute autre question.
+Les inscriptions pour l'année 2023/2024 vont bientôt ouvrir.
+
+<!-- Le secrétariat vous contactera dans les meilleurs délais. Que ce soit pour une
+inscription ou toute autre question. -->
 
 Vous pouvez également l'imprimer et le déposer à la mairie de Sierck-Les-Bains.
 Voir la page de [contact](/contact).  

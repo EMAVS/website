@@ -30,8 +30,6 @@ sensoriel.
 
 ## Le jardin musical
 
-Commençons tôt !
-
 Jardin musical 1 (petite section maternelle):
 - Le samedi de 11h à 12h.
 
