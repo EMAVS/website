@@ -19,8 +19,8 @@ Les inscriptions pour l'année 2023/2024 vont bientôt ouvrir.
 <!-- Le secrétariat vous contactera dans les meilleurs délais. Que ce soit pour une
 inscription ou toute autre question. -->
 
-Vous pouvez également l'imprimer et le déposer à la mairie de Sierck-Les-Bains.
-Voir la page de [contact](/contact).  
+<!-- Vous pouvez également l'imprimer et le déposer à la mairie de Sierck-Les-Bains.
+Voir la page de [contact](/contact).   -->
 
 
 
