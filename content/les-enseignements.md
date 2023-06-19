@@ -16,7 +16,7 @@ note école de musique.
 
 - Contrebasse à cordes
 - Trompette
-- Flûte traversiaire (en prévision d'ouverture de classe)
+- Flûte traversière (en prévision d'ouverture de classe)
 
 L’apprentissage de l’instrument est indissociable de la formation musicale (FM1, FM2 ou FM3).
 
