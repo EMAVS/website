@@ -31,7 +31,8 @@ sensoriel.
 
 ## Le jardin musical
 
-Jardin musical (petite et moyenne section maternelle):
+Jardin musical (petite et moyenne section maternelle).
+Créneaux horaires possibles:
 - Le mercredi de 9h à 9h50.
 - Le mardi de 17h à 17h50.
 
@@ -40,7 +41,7 @@ Jardin musical (petite et moyenne section maternelle):
 
 
 Éveil 1 (grande section maternelle):
-- Le mercredi de 9h à 10h.
+- Le mercredi de 10h à 11h.
 
 Éveil 2 (CP):
 - Le mercredi de 11h à 12h.
@@ -54,10 +55,10 @@ Formation musicale 1 ère année:
 - Le mercredi de 13h30 à 14h30.
 
 Formation musicale 2 ème année:
-- Le mardi de 15h30 à 17h.
+- Le mercredi de 15h30 à 17h.
 
 Formation musicale 3 ème année:
-- Le mardi de 17h30 à 19h.
+- Le mercredi de 17h30 à 19h.
 
 Selon le nombre d'inscriptions nous ouvrirons également des cours de formation musicale
 pour adultes, ainsi que pour les instruments de musique.
