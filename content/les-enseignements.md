@@ -24,8 +24,8 @@ L’apprentissage de l’instrument est indissociable de la formation musicale (
 
 Trois cours de danse sont disponibles:
 - cours pour les jeunes enfants le mercredi de 16h à 17h;
-- cours pour les 8 à 12 ans le mercredi de 17 à 18h;
-- cours pour les adultes le mercredi à 20h.
+- cours pour les 8 à 12 ans le mercredi de 17h à 18h;
+- cours pour les adultes le mercredi de 20h à 21h.
 
 Les horaires peuvent varier en fonction du nombre d'inscrits.
 
