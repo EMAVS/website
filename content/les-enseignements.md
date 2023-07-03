@@ -27,6 +27,7 @@ Trois cours de danse sont disponibles:
 - cours pour les 8 à 12 ans le mercredi de 17 à 18h;
 - cours pour les adultes le mercredi à 20h.
 
+Les horaires peuvent varier en fonction du nombre d'inscrits.
 
 À noter que la loi du 10 juillet 1989, relative au diplôme de danse,
 stipule que les enfants de 4 à 5 ans ne peuvent pratiquer que les
