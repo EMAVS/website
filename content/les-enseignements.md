@@ -16,7 +16,7 @@ note école de musique.
 
 - Contrebasse à cordes
 - Trompette
-- Flûte traversière (en prévision d'ouverture de classe)
+- Flûte traversière
 
 L’apprentissage de l’instrument est indissociable de la formation musicale (FM1, FM2 ou FM3).
 
@@ -38,18 +38,20 @@ activités d'éveil corporel et sensoriel.
 
 Jardin musical (petite et moyenne section maternelle).
 Créneaux horaires possibles:
-- Le mercredi de 9h à 9h50.
-- Le mardi de 17h à 17h50.
+- Le mercredi de 9h à 9h50;
+- Le mardi de 16h45 à 17h45.
 
 
 ## L'éveil musical
 
 
 Éveil 1 (grande section maternelle):
-- Le mercredi de 10h à 11h.
+- Le mercredi de 10h à 11h;
+- Le mardi de 16h45 à 17h45.
 
 Éveil 2 (CP):
-- Le mercredi de 11h à 12h.
+- Le mercredi de 11h à 12h;
+- Le mardi de 16h45 à 17h45.
 
 
 ## La formation musicale
