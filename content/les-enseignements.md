@@ -9,7 +9,7 @@ weight: 300
 ---
 
 Que vous soyez débutant ou plus expérimenté, tout le monde peut trouver sa place dans
-note école de musique.
+notre école de musique.
 
 
 ## Les cours d'instruments
