@@ -9,7 +9,7 @@ tags:
   - inscriptions
 ---
 
-[![Flyer rentree EMAVS](/images/blog/2023/07/flyer-rentree-EMAVS.png)](/files/blog/2023/07/flyer-rentree-EMAVS.pdf)
+[![Flyer rentree EMAVS](/images/blog/2023/06/flyer-rentree-EMAVS.png)](/files/blog/2023/06/flyer-rentree-EMAVS.pdf)
 
 La fin de l'année scolaire approche, une nouvelle pointe son nez.
 
