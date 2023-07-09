@@ -8,8 +8,9 @@ menu: main
 weight: 300
 ---
 
-Que vous soyez débutant ou plus expérimenté, tout le monde peut trouver sa place dans
-notre école de musique.
+Que vous soyez débutant ou plus expérimenté,
+[nos enseignants](/les-enseignants) se feront un immense plaisir de vous
+faire découvrir le monde de la musique et de la danse.
 
 
 ## Les cours d'instruments
