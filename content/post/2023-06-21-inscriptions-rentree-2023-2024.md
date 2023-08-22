@@ -25,6 +25,6 @@ aux horaires, aux tarifs ainsi que le règlement.
 Les inscriptions seront ouvertes jusqu'au 8 juillet puis de fin août à début
 octobre.
 
-Les cours commenceront la semaine du 18 septembre.
+Les cours commenceront le mardi 26 septembre.
 
 Nous espérons vous voir nombreux à la rentrée !
