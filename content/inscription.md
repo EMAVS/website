@@ -8,18 +8,12 @@ menu: main
 weight: 400
 ---
 
-Afin de vous inscrire pour l'année 2023/2024 veuillez utiliser
-[ce formulaire](https://inscription.emavs.fr/inscription-2023-2024).
+Les inscriptions sont actuellement fermées.
 
-Voici le [règlement](/files/EMAVS-reglement-interieur.pdf) qui devra être
-accepté au cours de l'inscription.
+Voici le [règlement](/files/EMAVS-reglement-interieur.pdf).
 
 Le secrétariat vous contactera dans les meilleurs délais. Que ce soit pour une
 inscription ou toute autre question.
-
-<!-- Vous pouvez également l'imprimer et le déposer à la mairie de Sierck-Les-Bains.
-Voir la page de [contact](/contact).   -->
-
 
 
 ## Tarifs
