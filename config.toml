@@ -42,3 +42,4 @@ enableRobotsTXT = true
 
 [permalinks]
   post = '/:year/:month/:day/:slug/'
+  evenements = 'evenements/:year/:slug/'
