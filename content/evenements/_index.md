@@ -1,5 +1,6 @@
 ---
 title: Évènements
+description: Derniers évènements de notre école de musique.
 slug: evenements
 featured_image: 'red'
 omit_header_text: false
@@ -13,8 +14,6 @@ weight: 500
 <!--
 
 ## 2022
-
-__19 juin__ [Concert à l'occasion de la Saint-Jean de Sierck-Les-Bains]({{< ref "/post/2022-06-10-saint-jean.md" >}}).
 
 __16 octobre__ Concert de la chorale de l'EMAVS lors de la fête du pressoir de Rustroff.
 

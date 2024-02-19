@@ -8,10 +8,13 @@ omit_header_text: true
 type: post
 ---
 
-La journée s'est déroulé au conservatoire de musique de Bouzonville.
+La journée s'est déroulée au conservatoire de musique de Bouzonville.
 
 
-## Avec les enfants 
+## Formation avec nos élèves de contrebasse 
+
+Nos élèves ont travaillé la journée du 18 février au Conservatoire de musique de Bouzonville
+afin de nous préparer un magnifique spectacle. Voici quelques vidéos.
 
 {{< youtube 9D_SqdjJLgg >}}
 \
@@ -25,3 +28,5 @@ La journée s'est déroulé au conservatoire de musique de Bouzonville.
 ## Quatuor formé avec des enseignants
 
 {{< youtube cFP-xxfuKMo >}}
+
+Ce morceau a également été préparé cette même journée.
