@@ -10,6 +10,9 @@ type: post
 
 Les auditions des élèves de piano, contrebasse, flûte traversière et trompette ont eu lieu les 16 et 17 février 2024.
 
+Les parents étaient vraiment nombreux au rendez-vous! Merci à eux!
+
+
 ![Piano 1](/images/evenements/2024/piano-1.jpg)
 
 ![Piano 2](/images/evenements/2024/piano-2.jpg)
@@ -18,3 +21,6 @@ Les auditions des élèves de piano, contrebasse, flûte traversière et trompet
 \
 \
 {{< youtube zowHmudyG24 >}}
+\
+\
+![Contrebasse](/images/evenements/2024/contrebasse-1.jpg)
