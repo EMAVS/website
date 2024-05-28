@@ -18,7 +18,12 @@ faire découvrir le monde de la musique et de la danse.
 - Contrebasse à cordes
 - Trompette
 - Flûte traversière
-- Piano (initiation)
+- Piano, à partir de 7 ans
+- Saxophone
+- Guitare classique à partir de 7 ans
+- Guitare électrique
+- Batterie
+- Djembé
 
 L’apprentissage de l’instrument est indissociable de la formation musicale (FM1, FM2 ou FM3).
 
