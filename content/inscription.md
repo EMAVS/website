@@ -18,57 +18,14 @@ inscription ou toute autre question.
 
 ## Tarifs
 
-### CCB3F
+Notre école entame un projet de taille cette année.
 
-|                                       | Premier enfant |  Deuxième enfant |  Troisième enfant |
-| :------------------------------------ | -------------: | ---------------: |-----------------: |
-| **Cotisation annuelle**               |      45&nbsp;€ |                  |                   |
-| &nbsp;                                |                |                  |                   |
-| **Éveil musical**                     |     150&nbsp;€ |       135&nbsp;€ |        120&nbsp;€ |
-| **Formation Musicale**                |     150&nbsp;€ |       135&nbsp;€ |        120&nbsp;€ |
-| **Formation Musicale et instrument**  |     405&nbsp;€ |       375&nbsp;€ |        345&nbsp;€ |
-| &nbsp;                                |                |                  |                   |
-| **Chorale (adulte)**                  |      60&nbsp;€ |                  |                   |
-| &nbsp;                                |                |                  |                   |
-| **Danse (enfant et adulte)**          |      90&nbsp;€ |                  |                   |
+C’est officiel, l’EMAVS et l’École Municipale de Sierck-les-Bains travaillent main dans la main pour ne devenir qu’une seule entité !
 
-> Tarifs pour les personnes issues de la Communauté de Communes Bouzonvillois - Trois Frontières (CCB3F).
+L’objectif est tout d’abord d’avoir plus de cohérence auprès du public, également d’avoir une meilleure visibilité sur les activités culturelles proposées dans le secteur.
 
-**Un exemple:**
+La communauté de commune CCB3F nous soutient fortement dans ce projet. Nous sommes en relation avec un organisme qui va nous accompagner vers ce changement afin que tout se passe dans les meilleures conditions pour tous. La première étape se fera pour la rentrée de septembre 2024.
 
-Pour une famille de deux enfants, l'un faisant une formation musicale avec
-instrument (*FM*) et l'autre de l'éveil musical (*EM*), la somme à payer
-est calculée de la manière:
+C’est pourquoi la communication des tarifs ne pourra se faire qu’à partir de la fin des vacances d’été 2024. Nous organiserons une Assemblée générale extraordinaire afin de communiquer tous les détails de cette fusion.
 
-{{< highlight matlab "linenos=table,hl_lines=3,linenostart=1" >}}
-Cotisation annuelle + FM tarif premier enfant + EM tarif deuxième enfant
-= 45 + 405 + 135
-= 585 euros
-{{< / highlight >}}
-
-Le tarif premier enfant est destiné à l'aîné⸱e.
-
-
-> **Informations supplémentaires:**
-> 
-> - Les séances de chorale durent 1h30 par semaine.
-> - L'apprentissage de l'instrument est indissociable de la Formation Musicale (FM1 ou FM2).
-> - Le cours individuel d'un instrument (30 minutes), sans la formation musicale,
-> **pour un adulte** est de 450&nbsp;€ par an.
-
-
-
-### Hors CCB3F
-
-|                                       | Premier enfant |  Deuxième enfant |  Troisième enfant |
-| :------------------------------------ | -------------: | ---------------: |-----------------: |
-| **Cotisation annuelle**               |      65&nbsp;€ |                  |                   |
-| &nbsp;                                |                |                  |                   |
-| **Éveil musical**                     |     210&nbsp;€ |       195&nbsp;€ |        170&nbsp;€ |
-| **Formation Musicale**                |     210&nbsp;€ |       195&nbsp;€ |        170&nbsp;€ |
-| **Formation Musicale et instrument**  |     510&nbsp;€ |       480&nbsp;€ |        450&nbsp;€ |
-| &nbsp;                                |                |                  |                   |
-| **Chorale**                           |      90&nbsp;€ |                  |                   |
-
-Le cours individuel d'un instrument (30 minutes), sans la formation musicale,
-**pour un adulte** est de 600&nbsp;€ par an.
+Nous comptons sur votre compréhension. A très vite !
