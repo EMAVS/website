@@ -15,24 +15,26 @@ faire découvrir le monde de la musique et de la danse.
 
 ## Les cours d'instruments
 
-- Contrebasse à cordes
-- Trompette
-- Flûte traversière
-- Piano, à partir de 7 ans
-- Saxophone
-- Guitare classique à partir de 7 ans
-- Guitare électrique
-- Batterie
-- Djembé
+- Piano: jeudi après-midi / samedi journée
+- Contrebasse: jeudi après-midi/soir
+- Trompette: jeudi après-midi/soir
+- Flûte traversière: mardi soir
+- Saxophone: samedi après-midi/soir
+- Batterie et Djembé: lundi soir et mardi soir
+- Chant: samedi matin
+- Guitare classique: samedi matin
+- Guitare électrique: jeudi soir
 
-L’apprentissage de l’instrument est indissociable de la formation musicale (FM1, FM2 ou FM3).
+les séances seront à définir avec les professeurs concernés à la rentrée.
+
+L’apprentissage de l’instrument est indissociable de la formation musicale (FM1, FM2, FM3 ou FM4).
 
 ## Les cours de danse
 
 Trois cours de danse sont disponibles:
 - cours pour les jeunes enfants le mercredi de 16h à 17h;
-- cours pour les 8 à 12 ans le mercredi de 17h à 18h;
-- cours pour les adultes le mercredi de 20h à 21h.
+- cours pour les 8 à 14 ans le mercredi de 17h à 18h;
+- à partir de 14 ans le mercredi de 20h à 21h.
 
 Les horaires peuvent varier en fonction du nombre d'inscrits.
 
@@ -52,13 +54,8 @@ Créneaux horaires possibles:
 ## L'éveil musical
 
 
-Éveil 1 (grande section maternelle):
-- Le mercredi de 10h à 11h;
-- Le mardi de 16h45 à 17h45.
-
-Éveil 2 (CP):
-- Le mercredi de 11h à 12h;
-- Le mardi de 16h45 à 17h45.
+- Le mardi après-midi à partir de 16h45
+- Le samedis après-midi à partir de 13h30
 
 
 ## La formation musicale
@@ -66,21 +63,22 @@ Créneaux horaires possibles:
 À partir de 6 ou 7 ans.
 
 Formation musicale 1 ère année:
-- Le mercredi de 13h30 à 14h30.
+- Le mercredi de 13h15 à 14h45
 
 Formation musicale 2 ème année:
-- Le mercredi de 15h30 à 17h.
+- Le mardi de 17h45 à 19h15
+- Le mercredi de 14h45 à 16h15
 
 Formation musicale 3 ème année:
-- Le mercredi de 17h30 à 19h.
+- Le mercredi de 16h15 à 17h45
 
-Selon le nombre d'inscriptions nous ouvrirons également des cours de formation musicale
-pour adultes, ainsi que pour les instruments de musique.
+Formation musicale 4 ème année:
+- Le mercredi cd 17h45 à 19h15
 
 
 ## La chorale pour adultes et adolescents
 
-Les séances de chorale ont lieu le mercredi soir de 19h30 à 21h.
+Les séances de chorale ont lieu le lundi soir de 20h à 22h.
 
 
 ## Pratique collective

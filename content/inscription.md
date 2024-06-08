@@ -8,7 +8,7 @@ menu: main
 weight: 400
 ---
 
-Les inscriptions sont actuellement fermées.
+Le formulaire d'inscription est téléchargeable [ici](/files/Fiche_inscription-EMAVS-2024-2025.pdf).
 
 Voici le [règlement](/files/EMAVS-reglement-interieur.pdf).
 
