@@ -12,6 +12,9 @@ Que vous soyez débutant ou plus expérimenté,
 [nos enseignants](/les-enseignants) se feront un immense plaisir de vous
 faire découvrir le monde de la musique et de la danse.
 
+Vous pouvez consulter
+[notre brochure](/files/Brochure_EMAVS_2024.pdf)
+pour un aperçu de nos différents cours.
 
 ## Les cours d'instruments
 

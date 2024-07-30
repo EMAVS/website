@@ -12,6 +12,10 @@ Le formulaire d'inscription est téléchargeable [ici](/files/Fiche_inscription-
 
 Voici le [règlement](/files/EMAVS-reglement-interieur.pdf).
 
+Vous pouvez consulter
+[notre brochure](/files/Brochure_EMAVS_2024.pdf)
+pour un aperçu de nos différents cours.
+
 Le secrétariat vous contactera dans les meilleurs délais. Que ce soit pour une
 inscription ou toute autre question.
 
